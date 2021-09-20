@@ -99,3 +99,6 @@ a:hover{
     padding: 20px;
 }
 
+.bottom-box{
+    border-top: solid 4px black;
+}
