@@ -23,10 +23,8 @@ h3{
 } 
 
 .dog{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 95%;
+    width: 100%;
+    
 }
 
 .box{
